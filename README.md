@@ -3,7 +3,7 @@
 - Estudos de kubernetes
 - Desenvolvimento de labs de estudo
 
-
+```
 mentoria-k8s/
 ├── k8s/
 │ ├── deployment.yaml
@@ -12,7 +12,7 @@ mentoria-k8s/
 ├── main.py
 ├── README.md
 └── requirements.txt
-
+```
 
 ## Descrição
 
